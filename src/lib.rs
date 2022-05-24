@@ -1,3 +1,8 @@
+#[macro_use]
+extern crate lalrpop_util;
+
+lalrpop_mod!(pub tarnish_core); // synthesized by LALRPOP
+
 #[cfg(test)]
 mod tests {
     #[test]

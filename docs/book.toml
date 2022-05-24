@@ -3,4 +3,4 @@ authors = ["wu000168"]
 language = "en"
 multilingual = false
 src = "src"
-title = "<TEMPLATE>"
+title = "Tarnish Core"
